@@ -1,0 +1,5 @@
+john@domain.com
+
+jane@domain.com
+karl@domain.com
+bert@localhost
